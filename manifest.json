@@ -1,0 +1,16 @@
+{
+  "lang": "en-us",
+  "name": "Food Ordering App",
+  "short_name": "Food App",
+  "description": "Order delicious food online!",
+  "start_url": "/menu.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff5733",
+  "icons": [
+    {
+      "src": "/icon512.png",
+      "sizes": "512x512"
+    }
+  ]
+}
